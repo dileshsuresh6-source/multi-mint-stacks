@@ -1,7 +1,7 @@
 # 🎨 Stacksies NFT Contract
 
 Deployed Contract Address:
-ST2SW0QXQ5AB4ZF5EAHTGMXCKCFF9JHK9GYYBKH9M.multi-mint
+ST87DZSKM3M2NR2EB6G25ZP13GW9Q25026D24VEJ.multi-mint
 
 📜 Project Title & Short Description
 
@@ -20,7 +20,8 @@ Framework: Clarinet (for local testing & deployment)
 
 Explorer: Hiro Explorer (for testnet/mainnet interactions)
 
-<img width="1920" height="1080" alt="Screenshot from 2025-08-20 01-09-59" src="https://github.com/user-attachments/assets/237447ae-8759-46e7-8185-827f009eb31c" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fd875174-ab09-4465-b988-5c825bde8c35" />
+
 
 ⚙️ Setup Instructions
 Local (Clarinet)
